@@ -4,7 +4,7 @@ public class CaesarCipher {
         // key: The encryption or decryption key (the number of letters you want to shift the message by)
         // option: 1 for encryption and -1 for decryption
         
-        // Convert the message to lowercase
+        // Convert the message to lowercase:
         message = message.toLowerCase();
         
         // Create a StringBuilder to hold the encrypted message
