@@ -1,6 +1,7 @@
+// 0000000000000000000
 public class CaesarCipher {
     public static String caesarCipher(String message, int key, int option) {
-        // message: The text message you want to encrypt or decrypt.0000000000000000000
+        // message: The text message you want to encrypt or decrypt.
         // key: The encryption or decryption key (the number of letters you want to shift the message by).
         // option: 1 for encryption and -1 for decryption.
         
