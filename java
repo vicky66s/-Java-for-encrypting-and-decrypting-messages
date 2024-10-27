@@ -1,4 +1,4 @@
-// 0000000000000000000
+// 01
 public class CaesarCipher {
     public static String caesarCipher(String message, int key, int option) {
         // message: The text message you want to encrypt or decrypt.
